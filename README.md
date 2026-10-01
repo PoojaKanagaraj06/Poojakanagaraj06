@@ -55,7 +55,7 @@ I love combining technology with real-world problems and turning complex ideas i
 <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 
 **Data & Tools**<br>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,opencv,git,github,gitlab,postman,figma" />
+<img src="https://skillicons.dev/icons?i=opencv,git,github,gitlab,postman,figma" />
 
 ---
 
