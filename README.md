@@ -30,11 +30,10 @@ I love combining technology with real-world problems and turning complex ideas i
 
 | Project | What it does | Tech |
 |---|---|---|
-| 🌾 **[Smart Agriculture](https://github.com/PoojaKanagaraj06/REPO_NAME)** | One line about the problem it solves | `React` `Node.js` `MongoDB` |
-| 📚 **[Student Productivity Platform](https://github.com/PoojaKanagaraj06/REPO_NAME)** | One line about the problem it solves | `MERN` `Firebase` |
-| 🤖 **[AI Project Name](https://github.com/PoojaKanagaraj06/REPO_NAME)** | One line about the problem it solves | `Python` `FastAPI` `OpenCV` |
-
-> Replace `REPO_NAME` and the descriptions with your real repos. Add live demo links too if you have them.
+| 🌾 **[SmartUzhavan – AI-Powered Farming Assistant](https://github.com/PoojaKanagaraj06/UZHAVAN)** | Helps farmers monitor crop health using NDVI analysis and access AI-powered farming assistance. | `React.js` `Node.js` `Firebase` `GCP` |
+| 📚 **[TaskMate – AI-Based Task Management System](https://github.com/PoojaKanagaraj06/mindflow)** | Helps users organize tasks, manage deadlines, prioritize activities using ML, and interact with an AI chatbot. | `JavaScript` `Python` `Flask` `FastAPI` `Firebase` `Docker` |
+| 🤖 **[Image-to-Text Converter](https://github.com/PoojaKanagaraj06/Img_txt_cnt)** | Extracts readable text from images using OCR technology, making image-based text easier to access and process. | `Python` `Flask` `OpenCV` `Pytesseract` |
+| 💬 **[WhatsApp Clone](https://github.com/PoojaKanagaraj06/WhatsappClone)** | A real-time messaging application that enables users to communicate through instant chat functionality. | `MongoDB` `Express.js` `React.js` `Node.js` `Socket.IO` |
 
 ---
 
