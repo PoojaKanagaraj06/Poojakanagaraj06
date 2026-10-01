@@ -10,7 +10,7 @@
 
 ### 📊 GitHub Stats
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=PoojaKanagaraj06&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaKanagaraj06&layout=compact&theme=tokyonight" />
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
